@@ -1,3 +1,3 @@
 # My open source journey
 ### Learning the dynamics of using markdown language to commiunicate in open source projects...
-![Beautiful picture of a natural waterfall](https://images.app.goo.gl/C36LgqvctXQwvc8N6)
+![Beautiful picture of a natural waterfall](https://www.pexels.com/photo/photo-of-waterfall-1875480/)
