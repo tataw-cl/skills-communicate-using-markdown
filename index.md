@@ -4,7 +4,8 @@
 
 ```
 $ HTML header tag name
-HTML also has <h1> to <h6> tags```
+HTML also has <h1> to <h6> tags
+```
 ### Tasklist for creating GitHub account
 
 - [x] Do a Google search of GitHub 
